@@ -2,6 +2,13 @@
   "latest": "1.0.1",
   "versions": [
     {
+      "version": "1.0.3",
+      "url": "https://github.com/vidcornd/reportmaker/releases/download/v1.0.3/RaporAI_Setup.exe",
+      "url_mac": "https://github.com/vidcornd/reportmaker/releases/download/v1.0.3/RaporAI_mac_v1.0.3.zip",
+      "url_mac_intel": "https://github.com/vidcornd/reportmaker/releases/download/v1.0.3/RaporAI_mac_intel_v1.0.3.zip",
+      "changelog": "- Guncelleme baglantisi (sertifika) sorunu giderildi\n- Guncelleme indirilemezse artik uyari gosterilir"
+    },
+    {
       "version": "1.0.1",
       "url": "https://github.com/vidcornd/reportmaker/releases/download/v1.0.1/RaporAI_Setup.exe",
       "url_mac": "https://github.com/vidcornd/reportmaker/releases/download/v1.0.1/RaporAI_mac_v1.0.1.zip",
