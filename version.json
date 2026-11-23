@@ -1,0 +1,11 @@
+{
+  "latest": "1.0.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "url": "https://github.com/vidcornd/reportmaker/releases/download/v1.0.0/RaporAI_Setup.exe",
+      "url_mac": "https://github.com/vidcornd/reportmaker/releases/download/v1.0.0/RaporAI_mac_v1.0.0.zip",
+      "changelog": "- Ilk surum"
+    }
+  ]
+}
